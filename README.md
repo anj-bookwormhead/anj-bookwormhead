@@ -11,9 +11,9 @@ hi@bookwormhead.com
 
 <h4> 🤔 Let's Connect! </h4>
 <div><a href="https://www.facebook.com/anj.bookwormhead">Facebook: anj.bookwormhead</a></div>
-<divInstagram</div>
-<divYouTube (Tech)</div>
-<divYouTube (Marketing)</div>
+<div><a href="https://www.instagram.com/anj.bookworm/">Instagram</a></div>
+<div><a href="https://www.youtube.com/@bookwormhead">YouTube (Tech)</a></div>
+<div><a href="https://www.youtube.com/@angieworm/videos">YouTube (Marketing)</a></div>
 
 💬 Ask me about ...
 
