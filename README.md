@@ -1,9 +1,7 @@
 ### Angie Here! 👋
 
 <p>I'm a web developer and digital marketer who loves exploring the world. I'm passionate about coding, designing, and creating amazing websites that bring value to people's lives. I have an eye for creative design, coupled with practical marketing strategies – making me a geeky enthusiast in the field of digital marketing.</p>
-
 <img src="[https://imgur.com/9NSJtsa](https://imgur.com/a/NOJ1Qh8)">
-
 <h4><a href="mailto:hi@bookwormhead.com"> Email Me</a>  Or <a href="mailto:hi@bookwormhead.com">Book A Call 📫</a></h4>
 <h4 style="border:solid 1px #000;padding:10px;">Download My CV ✍  </h4>
 <h4>  Let's Connect!🤔 </h4>
