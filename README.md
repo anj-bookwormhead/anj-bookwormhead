@@ -5,6 +5,13 @@
 <img src="[https://imgur.com/9NSJtsa](https://imgur.com/a/NOJ1Qh8)">
 
 <h4> 📫 How to reach me: </h4>
+hi@bookwormhead.com
+
+<h4> ✍ Download My CV ✍  </h4>
+
+<h4> 🤔 Let's Connect! </h4>
+
+💬 Ask me about ...
 
 <!--
 **anj-bookwormhead/anj-bookwormhead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
