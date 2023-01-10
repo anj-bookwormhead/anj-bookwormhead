@@ -5,8 +5,7 @@
 <img src="[https://imgur.com/9NSJtsa](https://imgur.com/a/NOJ1Qh8)">
 
 <h4><a href="mailto:hi@bookwormhead.com"> Email Me</a>  Or <a href="mailto:hi@bookwormhead.com">Book A Call 📫</a></h4>
-<h4 style="border:solid 1px #000;padding:10px;"> ✍ Download My CV ✍  </h4>
-
+<h4 style="border:solid 1px #000;padding:10px;">Download My CV ✍  </h4>
 <h4>  Let's Connect!🤔 </h4>
 <div><a href="https://www.facebook.com/anj.bookwormhead">Facebook</a></div>
 <div><a href="https://www.instagram.com/anj.bookworm/">Instagram</a></div>
