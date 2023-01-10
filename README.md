@@ -13,8 +13,6 @@
 <div><a href="https://www.youtube.com/@angieworm/videos">YouTube (Marketing)</a></div>
 <br>
 
-<h4>💬 Ask me about ...</h4>
-
 <!--
 **anj-bookwormhead/anj-bookwormhead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
