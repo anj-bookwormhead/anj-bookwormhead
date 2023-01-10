@@ -9,6 +9,7 @@
 <div><a href="https://www.instagram.com/anj.bookworm/">Instagram</a></div>
 <div><a href="https://www.youtube.com/@bookwormhead">YouTube (Tech)</a></div>
 <div><a href="https://www.youtube.com/@angieworm/videos">YouTube (Marketing)</a></div>
+<div><a href="https://www.linkedin.com/in/angelicsanoy/">LinkedIn</a></div>
 <br>
 
 <!--
