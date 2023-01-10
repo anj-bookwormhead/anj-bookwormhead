@@ -10,12 +10,13 @@ hi@bookwormhead.com
 <h4> ✍ Download My CV ✍  </h4>
 
 <h4> 🤔 Let's Connect! </h4>
-<div><a href="https://www.facebook.com/anj.bookwormhead">Facebook: anj.bookwormhead</a></div>
+<div><a href="https://www.facebook.com/anj.bookwormhead">Facebook</a></div>
 <div><a href="https://www.instagram.com/anj.bookworm/">Instagram</a></div>
 <div><a href="https://www.youtube.com/@bookwormhead">YouTube (Tech)</a></div>
 <div><a href="https://www.youtube.com/@angieworm/videos">YouTube (Marketing)</a></div>
+<br>
 
-💬 Ask me about ...
+<h4>💬 Ask me about ...</h4>
 
 <!--
 **anj-bookwormhead/anj-bookwormhead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
