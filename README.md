@@ -4,12 +4,12 @@
 
 <img src="[https://imgur.com/9NSJtsa](https://imgur.com/a/NOJ1Qh8)">
 
-<h4> 📫 How to reach me: </h4>
-hi@bookwormhead.com
+<h4> 📫 <a href="mailto:hi@bookwormhead.com"> Email Me Or Book</a> A Call </h4>
 
-<h4> ✍ Download My CV ✍  </h4>
 
-<h4> 🤔 Let's Connect! </h4>
+----------------<h4> ✍ Download My CV ✍  </h4>----------------
+
+<h4>  Let's Connect!🤔 </h4>
 <div><a href="https://www.facebook.com/anj.bookwormhead">Facebook</a></div>
 <div><a href="https://www.instagram.com/anj.bookworm/">Instagram</a></div>
 <div><a href="https://www.youtube.com/@bookwormhead">YouTube (Tech)</a></div>
