@@ -7,7 +7,7 @@
 <h4> 📫 <a href="mailto:hi@bookwormhead.com"> Email Me Or Book</a> A Call </h4>
 
 
-----------------<h4> ✍ Download My CV ✍  </h4>----------------
+<div style="border:solid 1px #000;padding:10px;"> ✍ Download My CV ✍  </div>
 
 <h4>  Let's Connect!🤔 </h4>
 <div><a href="https://www.facebook.com/anj.bookwormhead">Facebook</a></div>
