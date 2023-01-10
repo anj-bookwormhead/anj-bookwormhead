@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="[https://avatars.githubusercontent.com/u/31028354?v=4](https://drive.google.com/file/d/1rtd9jBK14IbsfHZFjdn0CtO7yTLDYmcQ/view?usp=sharing)">
+<img src="https://drive.google.com/file/d/1rtd9jBK14IbsfHZFjdn0CtO7yTLDYmcQ/view?usp=sharing">
 <!--
 **anj-bookwormhead/anj-bookwormhead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
