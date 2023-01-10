@@ -10,6 +10,10 @@ hi@bookwormhead.com
 <h4> ✍ Download My CV ✍  </h4>
 
 <h4> 🤔 Let's Connect! </h4>
+<a href="https://www.facebook.com/anj.bookwormhead">Facebook: anj.bookwormhead</a>
+Instagram
+YouTube (Tech)
+YouTube (Marketing)
 
 💬 Ask me about ...
 
