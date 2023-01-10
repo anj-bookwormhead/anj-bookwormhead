@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p>I'm a web developer and digital marketer who loves exploring the world. I'm passionate about coding, designing, and creating amazing websites that bring value to people's lives. I have an eye for creative design, coupled with practical marketing strategies – making me a geeky enthusiast in the field of digital marketing.</p>
+
 <img src="[https://imgur.com/9NSJtsa](https://imgur.com/a/NOJ1Qh8)">
 <!--
 **anj-bookwormhead/anj-bookwormhead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
